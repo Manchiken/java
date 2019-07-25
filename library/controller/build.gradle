@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation project(':models')
+    // https://mvnrepository.com/artifact/com.intellij/annotations
+    implementation group: 'com.intellij', name: 'annotations', version: '12.0'
+}
