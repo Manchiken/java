@@ -63,7 +63,7 @@ set CMD_LINE_ARGS=%*
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\library-v1.0-SNAPSHOT.jar;%APP_HOME%\lib\gson-2.8.5.jar
+set CLASSPATH=%APP_HOME%\lib\library-v1.0-SNAPSHOT.jar;%APP_HOME%\lib\gson-2.8.5.jar;%APP_HOME%\lib\javafaker-1.0.0.jar;%APP_HOME%\lib\commons-lang3-3.5.jar;%APP_HOME%\lib\snakeyaml-1.23-android.jar;%APP_HOME%\lib\generex-1.0.2.jar;%APP_HOME%\lib\automaton-1.11-8.jar
 
 @rem Execute library
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %LIBRARY_OPTS%  -classpath "%CLASSPATH%" MyPackage2.Application %CMD_LINE_ARGS%

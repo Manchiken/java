@@ -1,22 +1,17 @@
 plugins {
     id 'java'
-    id 'io.franzbecker.gradle-lombok' version '1.14'
 }
 
 sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
-    jcenter()
-}
-
-lombok {
-    version = '1.18.4'
-    sha256 = ""
 }
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     // https://mvnrepository.com/artifact/com.intellij/annotations
     implementation group: 'com.intellij', name: 'annotations', version: '12.0'
+    compileOnly 'org.projectlombok:lombok:1.18.4'
+
 }

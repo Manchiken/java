@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69405759-4346-4ae2-9a07-9da024d1d1fc" name="Default Changelist" comment="" />
+    <list default="true" id="69405759-4346-4ae2-9a07-9da024d1d1fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/library-v1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/library-v1.0-SNAPSHOT.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/library" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/library" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/library.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/library.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/controller/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/build/distributions/controller-v1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/controller/build/distributions/controller-v1.0-SNAPSHOT.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/build/scripts/controller" beforeDir="false" afterPath="$PROJECT_DIR$/controller/build/scripts/controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/build/scripts/controller.bat" beforeDir="false" afterPath="$PROJECT_DIR$/controller/build/scripts/controller.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/MyPackage2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/MyPackage2/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/MyPackage2/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/MyPackage2/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/src/main/java/MyPackage2/LibraryFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/src/main/java/MyPackage2/LibraryFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/models/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/build/distributions/models-v1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/models/build/distributions/models-v1.0-SNAPSHOT.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/build/scripts/models" beforeDir="false" afterPath="$PROJECT_DIR$/models/build/scripts/models" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/build/scripts/models.bat" beforeDir="false" afterPath="$PROJECT_DIR$/models/build/scripts/models.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/src/main/java/MyPackage1/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/models/src/main/java/MyPackage1/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/src/main/java/MyPackage1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/models/src/main/java/MyPackage1/Book.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +68,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1OTRrfCbSY4P1hkYPQBTO52i2im" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -66,6 +102,7 @@
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyPackage2.Application" />
       <module name="library.controller.main" />
+      <option name="PROGRAM_PARAMETERS" value="Author2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MyPackage2.*" />
@@ -94,5 +131,16 @@
       <updated>1563999799791</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
