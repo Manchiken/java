@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="library.controller.main" target="1.8" />
+      <module name="library.controller.test" target="1.8" />
+      <module name="library.main" target="1.8" />
+      <module name="library.models.main" target="1.8" />
+      <module name="library.models.test" target="1.8" />
+      <module name="library.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
