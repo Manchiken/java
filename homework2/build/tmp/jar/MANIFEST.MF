@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: homework2
+Implmentation-Version: 1.0-SNAPSHOT
+Main-Class: other.Application
+
