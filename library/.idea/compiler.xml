@@ -5,6 +5,12 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="first-homework.library.controller.main" target="1.8" />
+      <module name="first-homework.library.controller.test" target="1.8" />
+      <module name="first-homework.library.main" target="1.8" />
+      <module name="first-homework.library.models.main" target="1.8" />
+      <module name="first-homework.library.models.test" target="1.8" />
+      <module name="first-homework.library.test" target="1.8" />
       <module name="library.controller.main" target="1.8" />
       <module name="library.controller.test" target="1.8" />
       <module name="library.main" target="1.8" />
