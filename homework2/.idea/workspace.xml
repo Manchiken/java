@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d9b76ec-f303-453f-aba1-663d6b58fc25" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OgKGrKErYzEIAABYYwTTI5kp8i" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Conbine">
+    <configuration name="Conbine" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="other.Application" />
+      <module name="homework2.main" />
+      <option name="PROGRAM_PARAMETERS" value="combine" />
+      <option name="VM_PARAMETERS" value="-DtagName=span" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Console" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="other.Application" />
+      <module name="homework2.main" />
+      <option name="PROGRAM_PARAMETERS" value="console" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="other.Application" />
+      <module name="homework2.main" />
+      <option name="PROGRAM_PARAMETERS" value="file" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Console" />
+      <item itemvalue="Application.Conbine" />
+      <item itemvalue="Application.File" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.File" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d9b76ec-f303-453f-aba1-663d6b58fc25" name="Default Changelist" comment="" />
+      <created>1564393706986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564393706986</updated>
+    </task>
+    <servers />
+  </component>
+</project>
