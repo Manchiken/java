@@ -3,54 +3,43 @@ package MyPackage2;
 import MyPackage1.Author;
 import MyPackage1.Book;
 import com.google.gson.Gson;
-
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import com.google.inject.Guice;
 
 public class Application {
     public static void main(String[] args) {
-        String authorName = args[0];
-        Library library = LibraryFactory.getLibrary();
+        int size = Integer.valueOf(args[0]);
+        String fileName = args[1];
+        if(fileName!=null|| fileName!="") {
+            ModuleForIOC.fileName = fileName;
+        }
+
+        Library library = Guice
+                .createInjector(new ModuleForIOC())
+                .getInstance(LibraryFactory.class)
+                .library(size);
         System.out.println("LIBRARY: " + library.getLibraryName());
-
-//        System.out.println("======================== FIRST WAY ===============");
+        library.takeBook(2);
+//        library.prettyPrint(true);
 //
-//        Author findAuthor = library
-//                .getAuthors()
-//                .stream()
-//                .filter(author -> author.getFirstName().equals(authorName))
-//                .findFirst()
-//                .orElseThrow(() -> new NullPointerException("Not found author " + authorName));
-//        prettyPrintInfoAboutAuthor(findAuthor);
+        Book newBook1 = new Book();
+        newBook1.setName("TEST1");
+        library.addBook(newBook1);
+//        library.prettyPrint(true);
+//        library.prettyPrint(false);
 
-        //second patho to find author by book collection
-        System.out.println("======================== SECOND WAY ===============");
-        List<Book> authorBooks = new ArrayList<>();
-        Set<Author> findAuthor2 = new HashSet<>();
-        library
-                .getBooks()
-                .forEach(book -> book
-                        .getAuthors()
-                        .stream()
-                        .filter(author -> author.getFirstName().equals(authorName))
-                        .forEach(author -> {
-                            findAuthor2.add(author);
-                            authorBooks.add(book);
-                        })
-                );
-
-        findAuthor2.forEach(Application::printJson);
-        authorBooks.forEach(Application::printJson);
+        Book newBook2 = new Book();
+        newBook2.setName("TEST2");
+        library.addBook(newBook2);
+        library.prettyPrint(true);
+        // library.prettyPrint(false);
     }
 
     public static void printAuthor(Author author) {
-        System.out.println("Author: " + author.getFirstName() + " " + author.getSecondName());
+        System.out.println("Author: " + author.getName() + " " + author.getSecondName());
     }
 
     public static void printBook(Book book) {
-        System.out.println("Book: " + book.getBookName() + " " + book.getIssueDate());
+        System.out.println("Book: " + book.getName() + " " + book.getIssueDate());
     }
 
 

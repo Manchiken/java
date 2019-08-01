@@ -8,6 +8,6 @@ import java.util.List;
 
 @Data
 public class Author {
-    String firstName;
+    String name;
     String secondName;
 }

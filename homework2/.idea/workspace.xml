@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d9b76ec-f303-453f-aba1-663d6b58fc25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/ModuleForIOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/StaticBooksFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/controller/src/test/java/tests/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/controller/src/test/java/tests/Tests2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../library/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../library/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/LibraryFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library/controller/src/main/java/MyPackage2/LibraryFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/models/src/main/java/MyPackage1/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library/models/src/main/java/MyPackage1/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/models/src/main/java/MyPackage1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library/models/src/main/java/MyPackage1/Book.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OgKGrKErYzEIAABYYwTTI5kp8i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Conbine">
+    <configuration name="Conbine" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="other.Application" />
+      <module name="homework2.main" />
+      <option name="PROGRAM_PARAMETERS" value="combine" />
+      <option name="VM_PARAMETERS" value="-DtagName=span" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Console" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="other.Application" />
+      <module name="homework2.main" />
+      <option name="PROGRAM_PARAMETERS" value="console" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="other.Application" />
+      <module name="homework2.main" />
+      <option name="PROGRAM_PARAMETERS" value="file" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Console" />
+      <item itemvalue="Application.Conbine" />
+      <item itemvalue="Application.File" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.File" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d9b76ec-f303-453f-aba1-663d6b58fc25" name="Default Changelist" comment="" />
+      <created>1564393706986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564393706986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -3,12 +3,17 @@ package MyPackage1;
 import lombok.Data;
 
 import java.time.ZonedDateTime;
-import java.util.ArrayList;
-import java.util.List;
 
 @Data
 public class Book {
-    String bookName;
+    String name;
     ZonedDateTime issueDate;
-    List<Author> authors=new ArrayList<>();
+    Author author;
+
+    public Book(String name){
+        this.name=name;
+    }
+
+    public Book(){
+    }
 }

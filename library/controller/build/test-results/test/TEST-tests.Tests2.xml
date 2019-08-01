@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.Tests2" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-08-01T20:20:51" hostname="DESKTOP-CIK1AK7" time="1.034">
+  <properties/>
+  <testcase name="checkInfoPrint" classname="tests.Tests2" time="0.503"/>
+  <testcase name="takeEmptyCell" classname="tests.Tests2" time="0.331"/>
+  <testcase name="putFirstEmpty" classname="tests.Tests2" time="0.061"/>
+  <testcase name="noMoreSpace" classname="tests.Tests2" time="0.051"/>
+  <testcase name="checkOrderAll" classname="tests.Tests2" time="0.024"/>
+  <testcase name="checkOrder" classname="tests.Tests2" time="0.018"/>
+  <testcase name="checkPrettyPrint" classname="tests.Tests2" time="0.028"/>
+  <testcase name="checkExceptionWhenCreate" classname="tests.Tests2" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
